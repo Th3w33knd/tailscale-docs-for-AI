@@ -1,3 +1,5 @@
+If you want to scape by yourself, use [this](https://github.com/Th3w33knd/tailscale-docs-scrapper)
+
 # 🤖 Tailscale Documentation for AI Ingestion
 
 > **Purpose:** A consolidated dataset designed for LLM context windows and self-troubleshooting.
